@@ -1,0 +1,43 @@
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1514477917009-389c76a86b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=60");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+p
+{
+    background-color: lightsalmon;
+    color: black;
+    font-family: arial;
+    font-size: 12pt;
+}
+
+p.indent
+{
+    text-indent: 3%;
+}
+
+p.colorchange
+{
+    background-color: mistyrose;
+    color: black;
+}
+
+img
+{
+    float: left;
+    width: 30%;
+    height: 45%;
+}
+
+a:hover
+{
+    background-color: lightskyblue;
+}
+
+iframe
+{
+    display: block;
+    margin: 0 auto;
+}
